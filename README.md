@@ -1,6 +1,6 @@
 ## freeCodeCamp
 
-# Bash Scripting Crash Course
+# Shell Scripting Crash Course
 
 ### Description:
 A quick and simple crash course to get back into bash scripting!
